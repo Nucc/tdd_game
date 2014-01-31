@@ -1,5 +1,5 @@
 task "spec" do
-  sh "rspec ."
+  sh "rspec -I. ."
 end
 
 task :default => :spec
