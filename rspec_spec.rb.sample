@@ -1,0 +1,6 @@
+require 'rspec'
+
+describe "TestClass" do
+  pending "requirement" do
+  end
+end
